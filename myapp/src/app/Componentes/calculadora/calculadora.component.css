@@ -1,0 +1,17 @@
+.container{
+    height: 200px;
+    position: relative;
+}
+
+.flex-column {
+    height: 50px;
+    position: relative;
+    text-align: center;
+    background-color: rgb(194, 176, 211);
+}
+
+.resultado{
+    text-align: center;
+    
+}
+
